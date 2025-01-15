@@ -25,3 +25,19 @@
   - **Exercises**
     - https://www.freecodecamp.org/news/intro-to-css-grid-layout/
     - https://www.freecodecamp.org/news/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676
+
+## Creation of Javascript Projects With Node and NPM
+
+- [¿Qué es y cómo instalar Node.js?](https://kinsta.com/es/blog/como-instalar-node-js/)
+
+- [Aprender NPM desde cero](https://www.luisllamas.es/npm-desde-cero/)
+
+- [Curso de NPM. Cómo utilizar el gestor de paquetes NPM](https://www.luisllamas.es/curso-npm/)
+
+- [Resúmen Comandos NPM más utilizados](https://www.luisllamas.es/npm-cheatsheet/)
+
+- [Qué es el fichero package.json? Información Práctica](https://www.youtube.com/watch?v=rAQGFe7lCVs)
+
+- [Ejemplo práctico: creación de un proyecto sencillo con Node y NPM](https://aulasoftwarelibre.github.io/taller-nodeJs/)
+
+  
