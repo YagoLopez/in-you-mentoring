@@ -56,27 +56,15 @@
    - **Duración**: Aproximadamente 4 horas.
    - **Enlace**: [Curso de Git y GitHub - FreeCodeCamp Español](https://www.youtube.com/watch?v=HiXLkL42tMU)
 
-### 2. **Curso de Git en Udemy (Gratuito)**
-   - **Descripción**: Aunque Udemy es conocido por sus cursos de pago, también ofrece algunos cursos gratuitos. Busca "Git desde cero" o "Git para principiantes" en español. Asegúrate de que el curso tenga buenas reseñas y ejemplos prácticos.
-   - **Enlace**: [Udemy - Cursos de Git en Español](https://www.udemy.com/)
-
-### 3. **Tutorial de Git en la Documentación Oficial**
-   - **Descripción**: La documentación oficial de Git tiene una sección en español con tutoriales y ejemplos prácticos. Es una excelente fuente de información, aunque puede ser un poco más técnica.
-   - **Enlace**: [Documentación Oficial de Git en Español](https://git-scm.com/doc/es)
-
-### 4. **Curso de Git en Platzi (Gratuito)**
-   - **Descripción**: Platzi ofrece un curso básico de Git y GitHub en su plataforma. Aunque muchos cursos en Platzi son de pago, suelen ofrecer algunos cursos gratuitos de vez en cuando.
-   - **Enlace**: [Platzi - Cursos de Git](https://platzi.com/cursos/git/)
-
-### 5. **Tutorial de Git en W3Schools (Español)**
+### 2. **Tutorial de Git en W3Schools (Español)**
    - **Descripción**: W3Schools tiene un tutorial básico de Git en español, con ejemplos prácticos y ejercicios interactivos. Es ideal para quienes prefieren aprender de manera interactiva.
    - **Enlace**: [W3Schools - Tutorial de Git](https://www.w3schools.com/git/)
 
-### 6. **Curso de Git en Codecademy (Gratuito)**
+### 3. **Curso de Git en Codecademy (Gratuito)**
    - **Descripción**: Codecademy ofrece un curso interactivo de Git en inglés, pero tiene una interfaz muy intuitiva y ejemplos prácticos que pueden seguirse fácilmente incluso si no dominas el inglés.
    - **Enlace**: [Codecademy - Learn Git](https://www.codecademy.com/learn/learn-git)
 
-### 7. **Curso de Git en YouTube (HolaMundo)**
+### 4. **Curso de Git en YouTube (HolaMundo)**
    - **Descripción**: El canal de YouTube "HolaMundo" tiene un tutorial completo de Git en español, con ejemplos prácticos y explicaciones detalladas.
 
    - **Enlace**: [Curso de Git - HolaMundo](https://www.youtube.com/watch?v=VdGzPZ31ts8)
