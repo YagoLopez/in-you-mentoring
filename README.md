@@ -44,10 +44,9 @@
 
 > ### Cursos Obligatorios de Git
 
-- [Lear Git With Me](https://www.gitme.live/)
-
 - [Git: The Simple Guide](https://rogerdudler.github.io/git-guide/index.es.html)
-
+ 
+- [Lear Git With Me](https://www.gitme.live/)
   
 
 > ### Cursos complementarios
