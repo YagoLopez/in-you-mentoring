@@ -88,7 +88,7 @@ Una vez instalada, GitLens se integrará automáticamente con tu repositorio Git
 
 ## Ejercicio práctico sobre Node y Git. 
 
-## Creación de un Pull Request en un repositorio de GitHub
+### Creación de un Pull Request en un repositorio de GitHub
 
 Como introducción, consultar este arículo para aprender a trabajar con Git desde Visual Studio Code: https://www.digitalocean.com/community/tutorials/how-to-use-git-integration-in-visual-studio-code-es
 
@@ -104,10 +104,16 @@ A continuación, usando los conocimientos de los temas anteriores mencionados en
 3. Publicar el proyecto en GitHub: 
    1. Video de ayuda 1: https://www.youtube.com/watch?v=_Q7QzAII00o
    2. Video de ayuda 2: https://www.youtube.com/watch?v=RNL2eaClfCc
-4. Crear una nueva rama en Visual Studio Code y llamarla "`rama-prueba`". (Video de ayuda: https://www.digitalocean.com/community/tutorials/how-to-use-git-integration-in-visual-studio-code-es)
+4. Crear una nueva rama en Visual Studio Code y llamarla "`rama-prueba`".
+   1. Video de ayuda: https://www.digitalocean.com/community/tutorials/how-to-use-git-integration-in-visual-studio-code-es
+
 5. Hacer algún cambio trivial en el código como por ejemplo añadir un comentario
-6. Hacer "**commit**" de los cambios. (En el primer artículo de más arriba se explica como hacer un commit: https://www.digitalocean.com/community/tutorials/how-to-use-git-integration-in-visual-studio-code-es)
-7. A continuación, subir la rama que se acaba de crear a GitHub utilizando el comando de Git "**push**" (Consultar este video de ayuda para en donde se explica cómo hacer "**push**" en el minuto 8:57 https://www.youtube.com/watch?v=AYbgqmyg7dk)
+6. Hacer "`commit`" de los cambios. 
+   1. En el primer artículo de más arriba se explica como hacer un commit: https://www.digitalocean.com/community/tutorials/how-to-use-git-integration-in-visual-studio-code-es
+
+7. A continuación, subir la rama que se acaba de crear a GitHub utilizando el comando de Git "`push`" 
+   1. Consultar este video de ayuda para en donde se explica cómo hacer "`push`" en el minuto 8:57 https://www.youtube.com/watch?v=AYbgqmyg7dk
+
 8. Ir a la url del repositorio en GitHub (Debería ser algo así como "https://github.com/[nombreUsuario]/[nombreRepositorio]")
 9. Debería aparecer un botón verde con la opción "`Crear Pull Request`" debido a que se ha subido una nueva rama con cambios al repositorio
 10. Hacer click en dicho botón con lo que se debría crear el nuevo Pull Request
