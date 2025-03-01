@@ -117,5 +117,5 @@ A continuación, usando los conocimientos de los temas anteriores mencionados en
 8. Ir a la url del repositorio en GitHub (Debería ser algo así como "https://github.com/[nombreUsuario]/[nombreRepositorio]")
 9. Debería aparecer un botón verde con la opción "`Crear Pull Request`" debido a que se ha subido una nueva rama con cambios al repositorio
 10. Hacer click en dicho botón con lo que se debría crear el nuevo Pull Request
-11. Comprobar que en la pestaña "`Pull Requests`" del repoositorio de GitHub debería aparecer el Pull Request recientemente creado. Un Pull Request implica la solicitud de incluir nuevos cambios a partir de una rama "`rama-prueba`" en este caso en la rama principal, que se suele llamar "`master`" o "`main`"
+11. Comprobar que en la pestaña "`Pull Requests`" del repoositorio de GitHub debería aparecer el Pull Request recientemente creado. Un Pull Request implica la solicitud de incluir nuevos cambios a partir de una rama "`rama-prueba`" para incorporar dichos cambios en otra rama (en este caso en la rama principal, que se suele llamar "`master`" o "`main`")
 
