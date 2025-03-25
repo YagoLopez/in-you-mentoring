@@ -2,7 +2,7 @@
 
 
 
-## CSS
+## ➡️CSS
 
 - CSS concepts
   - https://www.youtube.com/watch?v=1PnVor36_40
@@ -26,7 +26,7 @@
     - https://www.freecodecamp.org/news/intro-to-css-grid-layout/
     - https://www.freecodecamp.org/news/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676
 
-## Creation of Javascript Projects With Node and NPM
+## ➡️Creation of Javascript Projects With Node and NPM
 
 - [¿Qué es y cómo instalar Node.js?](https://kinsta.com/es/blog/como-instalar-node-js/)
 
@@ -40,7 +40,7 @@
 
 - [Ejemplo práctico: creación de un proyecto sencillo con Node y NPM](https://aulasoftwarelibre.github.io/taller-nodeJs/)
 
-## Git: Distributed Version Control System
+## ➡️Git: Distributed Version Control System
 
 > ### Cursos Obligatorios de Git
 
@@ -86,7 +86,7 @@
 
 Una vez instalada, GitLens se integrará automáticamente con tu repositorio Git y te proporcionará todas sus funcionalidades directamente en el editor.
 
-## Ejercicio práctico sobre Node y Git. 
+## ➡️Ejercicio práctico sobre Node y Git. 
 
 ### Creación de un Pull Request en un repositorio de GitHub
 
@@ -119,3 +119,6 @@ A continuación, usando los conocimientos de los temas anteriores mencionados en
 10. Hacer click en dicho botón con lo que se debría crear el nuevo Pull Request
 11. Comprobar que en la pestaña "`Pull Requests`" del repoositorio de GitHub debería aparecer el Pull Request recientemente creado. Un Pull Request implica la solicitud de incluir nuevos cambios a partir de una rama "`rama-prueba`" para incorporar dichos cambios en otra rama (en este caso en la rama principal, que se suele llamar "`master`" o "`main`")
 
+## ➡️Curso de Introducción a Javascript
+
+Javascript desde cero (Curso completo) - Se trata de un curso introductorio en español para aprender los conceptos básicos de JavaScript e Incluye ejercicios para poner en práctica los conocimientos técnicos. https://www.youtube.com/watch?v=1glVfFxj8a4
